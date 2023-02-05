@@ -27,7 +27,7 @@ cormatrix <- function(x){
 }
 
 
- # Copyright 2023 Yuejia Teng, Ph.D.
+# Copyright 2023 Yuejia Teng, Ph.D.
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
